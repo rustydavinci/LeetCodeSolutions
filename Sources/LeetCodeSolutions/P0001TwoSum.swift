@@ -1,9 +1,4 @@
-//
-//  P0001TwoSum.swift
-//  LeetCodeSolutions
-//
-//  Created by David Ossa on 05/10/2024.
-//
+// 1. Two Sum: https://leetcode.com/problems/two-sum
 
 extension Solution {
 
