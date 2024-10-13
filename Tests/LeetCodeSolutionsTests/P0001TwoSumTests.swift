@@ -3,11 +3,11 @@ import Testing
 @testable import LeetCodeSolutions
 
 @Suite("Two Sum Tests") struct P0001TwoSumTests {
-    
+
     var nums = [Int]()
     var target = 0
     var expected = [Int]()
-    
+
     var result = [Int]()
     let solution = Solution()
 
