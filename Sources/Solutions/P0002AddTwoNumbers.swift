@@ -1,7 +1,6 @@
 // 2. Add Two Numbers: https://leetcode.com/problems/add-two-numbers
 
 extension Solution {
-
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         // Initialize variables to traverse the input lists
         var current = (l1, l2)
